@@ -3,7 +3,6 @@
 A RESTful web service built in modern C++ with the Crow framework that enables users to review books and receive personalized recommendations based on their reading preferences.
 
 > **Built by**: Mudit Mayank Jha and Britney Nguyen (Google STEP Intern)  
-> **Course Project**: Software Systems Development @ University of Richmond
 
 ---
 
@@ -139,25 +138,6 @@ They are **loaded at startup** and **persisted at shutdown**.
 - Auto-sync between resources (e.g. deleting a book removes its reviews & recs)
 - Clean ID reindexing to avoid orphaned references
 - Optimized for readability, traceability, and extensibility
-
----
-
-## 📁 File Structure
-
-```
-📦 BookReviewAPI/
-├── Book.{h,cpp}
-├── User.{h,cpp}
-├── Review.{h,cpp}
-├── Recommendation.{h,cpp}
-├── UserBookInteraction.h
-├── bookReviewAPI.cpp         // Main entry point
-├── globals.cpp               // Global maps
-├── books.json, users.json, ...
-├── DESIGN.md                 // Project spec & use cases
-├── Tests.cpp                 // Unit tests (doctest)
-└── Makefile
-```
 
 ---
 
