@@ -1,0 +1,1 @@
+[{"comment":"Amazing book!","rating":5,"book":{"isbn":"1234567890","genre":"Dystopian","author":"George Orwell","title":"1984","id":"b1"},"user":{"preferences":["fantasy","mystery"],"email":"alice@example.com","name":"Alice","id":"u1"},"id":"r1"}]
