@@ -177,7 +177,8 @@ curl -X POST http://localhost:18525/api/users \
 ## 🧑‍💻 Authors
 
 - **Mudit Mayank Jha** – [GitHub](https://github.com/muditjha20)
-- **Britney Nguyen** – Google STEP Intern
+- **Britney Nguyen** – [GitHub](https://github.com/bnnguyen) 
+
 
 ---
 
